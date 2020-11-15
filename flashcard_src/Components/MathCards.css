@@ -1,0 +1,40 @@
+.mathCard{
+    display: flex;
+    justify-content: center;
+    margin-top:5vh;
+    background-color: grey;
+}
+
+.mcard {
+    position: relative;
+    width: 600px;
+    padding: 20px;
+    max-width: 85vw;
+    height: 600px;
+    border-radius: 20px;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 18px 53px 0px rgba(0,0,0,0.3);
+    background-image: url('https://image.freepik.com/free-vector/christmas-card-with-candy-frame_11393-109.jpg');
+    justify-content:center;
+    align-items:center;
+    display: flex;
+}
+
+.mcard > center > h3 {
+    /* position: absolute; */
+    /* justify-content:center; */
+    color : black;
+    font-size: xx-large;
+}
+
+.mswipe {
+    position: absolute;
+}
+
+
+.mathCard_count {
+    color: black;
+    font-size: xx-large;
+    z-index: 10;
+}

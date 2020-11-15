@@ -1,0 +1,59 @@
+.Cell > span {
+    margin-top: 5px;
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    /* vertical-align: middle; */
+    font-weight: bold;
+}
+
+.Cell__grey {
+    background-color: #bbb !important;
+}
+
+
+.Cell__1 {
+    background-color: rgb(73, 117, 184) !important;
+    color: white;
+}
+
+.Cell__2 {
+    background-color: rgb(212, 86, 14) !important;
+    color: white;
+}
+
+.Cell__3 {
+    background-color: rgb(224, 162, 47) !important;
+    color: white;
+}
+
+.Cell__4 {
+    background-color: rgb(160, 141, 33) !important;
+    color: white;
+}
+
+.Cell__5 {
+    background-color: rgb(56, 180, 62) !important;
+}
+
+.Cell__6 {
+    background-color: rgb(55, 199, 235) !important;
+}
+
+.Cell__7 {
+    background-color: rgb(116, 41, 201) !important;
+    color: white;
+}
+
+.Cell__8 {
+    background-color: rgb(201, 41, 166) !important;
+    color: white;
+}
+
+.Cell__9 {
+    background-color: rgb(28, 185, 75) !important;
+    color: white;
+}

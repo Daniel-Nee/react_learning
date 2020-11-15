@@ -1,0 +1,35 @@
+.englishCards {
+    display: flex;
+    justify-content: center;
+    margin-top:5vh;
+    background-color: grey;
+}
+
+.ecard {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content:center;
+    align-items:center;
+    position: relative;
+    width: 600px;
+    padding: 20px;
+    max-width: 85vw;
+    height: 600px;
+    border-radius: 20px;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 18px 53px 0px rgba(0,0,0,0.3);
+    background-image: url('https://png.pngtree.com/png-vector/20190416/ourmid/pngtree-watercolor-christmas-element-collection-png-image_944738.jpg');
+}
+
+.ecard > center > h3 {
+    color :darkcyan;
+    font-size: xx-large;
+}
+
+
+
+.eswipe {
+    position: absolute;
+}

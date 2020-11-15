@@ -1,0 +1,14 @@
+.SideBarChannel {
+
+
+}
+
+.SideBarChannel:hover > h4 {
+    color: white;
+    background-color: #40464b;
+}
+
+.SideBarChannel__hash {
+    font-size: 30px;
+    padding: 8px;
+}
